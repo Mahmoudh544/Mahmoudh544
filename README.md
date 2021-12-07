@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmoud Hamed
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on coding more at SQL and Python for data analysis
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on coding more at SQL and Python for data Science
 - 📫 How to reach me Email:mahmoudh544.mh@gmail.com
 
 <!---
